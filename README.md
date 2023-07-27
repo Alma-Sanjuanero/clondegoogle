@@ -22,4 +22,4 @@ Contiene las siguientes secciones:
 *Footer: Sección que incluye hípervinculos al final de la página.
 
 ## 3. Objetivo del proyecto
-Apredner a utilizat las etiquetas de HTML5 y CSS3
+Aprender a utilizat las etiquetas de HTML5 y CSS3
